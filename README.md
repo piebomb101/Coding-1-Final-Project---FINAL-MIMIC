@@ -2,6 +2,8 @@
 James Gibbons-Macgregor Coding 1 Final Project
 James Gibbons-Macgregor: Coding One Final Project: Read Me File
 
+VIDEO DEMO HERE: https://youtu.be/9Y_jM_Vn-8w
+
 This project is focused on a THREE.js environment that features experiments with multiple methods of geometry and texture creation. It also explores animation of these objects. 
 It also features a modulating GLSL object and Maximillian based audio.
 
